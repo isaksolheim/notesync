@@ -22,9 +22,9 @@ def classify(image):
     pink = [range(210,240), range(150,180), range(110,130)]
 
     matte = "1TRQLR9GuNpmGa2CaGEJNlNzHkezDFZpg"
-    fysikk = "19YX0I_o7h5rYkTv_oEWNIepEt7mc7wx7"
+    fysikk = "1mJrIrr-feyaDjgunud8WkBYW21T2EGib"
     norsk = "1eYCvh6-chEbWjOVbvsjAtWjCyogco-M5"
-    historie = "1mJrIrr-feyaDjgunud8WkBYW21T2EGib"
+    historie = "19YX0I_o7h5rYkTv_oEWNIepEt7mc7wx7"
     religion = "1t9Q8LGUfoJlYmYmm8-70jC82yA7S2x4f"
     felles = "felles"
     fag = []
